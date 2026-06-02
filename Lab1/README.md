@@ -50,7 +50,7 @@ mix test
 ## Screenshots
 
 ### Java Run & Test
-![Java](Lab1/Java.png)
+![Java](Java.png)
 
 ### Elixir Run & Test
-![Elixir](Lab1/Elixir.png)
+![Elixir](Elixir.png)
