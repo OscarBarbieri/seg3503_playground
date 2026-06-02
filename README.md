@@ -4,6 +4,8 @@
 |------------|--------------------|
 | Course     | SEG 3503           |
 | Student    | Oscar Barbieri     |
+| Professor  | Dr. Mouhcine Guennou |
+| TA         | Mohamed Nefsi      |
 | GitHub     | https://github.com/OscarBarbieri/seg3503_playground |
 
 ---
